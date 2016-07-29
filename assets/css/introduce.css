@@ -1,0 +1,328 @@
+/* greeting */
+.introduce.greeting .greeting > .section-content > h4 {
+    font-size: 30px;
+    font-weight: 300;
+    color: #555;
+    margin: 0;
+}
+.introduce.greeting .greeting > .section-content > h4 > i {
+    font-style: normal;
+    color: #f5b324;
+}
+.introduce.greeting .greeting > .section-content > .center-chief {
+    overflow: hidden;
+    margin-top: 50px;
+}
+.introduce.greeting .greeting > .section-content > .center-chief > figure {
+    margin-right: 30px;
+    float: left;
+}
+.introduce.greeting .greeting > .section-content > .center-chief > figure > figcaption {
+    margin-top: 10px;
+    font-size: 15px;
+    color: #333;
+    line-height: 28px;
+}
+.introduce.greeting .greeting > .section-content > .center-chief > figure > figcaption h4 {
+    font-size: 24px;
+    color: #000;
+    margin: 0;
+}
+.introduce.greeting .greeting > .section-content > .center-chief > p {
+    font-size: 15px;
+    color: #666;
+    line-height: 28px;
+    margin-top: 27px;
+}
+.introduce.greeting .greeting > .section-content > .center-chief > p:nth-of-type(1) {
+    margin-top: 0;
+}
+
+
+/* purpose */
+.introduce.purpose .purpose > p:nth-of-type(1) {
+    margin: 0 0 75px 0;
+    font-size: 15px;
+    color: #666;
+    line-height: 28px;
+}
+
+
+/* propulsion */
+.introduce.propulsion .propulsion > p {
+    margin-bottom: 60px;
+    font-size: 15px;
+    color: #666;
+}
+
+.introduce.propulsion .propulsion > .section-content > div {
+    overflow: hidden;
+    margin-bottom: 25px;
+}
+
+.introduce.propulsion .propulsion > .section-content > div > h4 {
+    float: left;
+    font-size: 25px;
+    text-align: center;
+    color: #fff;
+    font-weight: 300;
+    width: 170px;
+    background-image: url(/assets/images/introduce/system_bg.jpg);
+    border-radius: 10px;
+    margin: 0 30px 0 0;
+    clear: both;
+}
+.introduce.propulsion .propulsion > .section-content > div > div {
+    float: left;
+    width: 970px;
+    border-radius: 10px;
+    border: 1px solid #dadada;
+    padding: 19px 30px;
+}
+.introduce.propulsion .propulsion > .section-content > .system > h4 {
+    height: 100px;
+    line-height: 100px;
+}
+.introduce.propulsion .propulsion > .section-content > .role > h4 {
+    height: 240px;
+    line-height: 240px;
+}
+.introduce.propulsion .propulsion > .section-content > .role > .role-content {
+    height: 240px;
+    padding: 25px 46px;
+}
+.introduce.propulsion .propulsion > .section-content > .role > .role-content  > ul {
+    overflow: hidden;
+}
+.introduce.propulsion .propulsion > .section-content > .role > .role-content  > ul > li {
+    float: left;
+    width: 248px;
+    height: 190px;
+    border-right: 1px solid #ccc;
+}
+.introduce.propulsion .propulsion > .section-content > .role > .role-content  > ul > li:last-child {
+    border-right: 0;
+}
+.introduce.propulsion .propulsion > .section-content > .role > .role-content  > ul > li:nth-of-type(1) {
+    width: 202px;
+}
+.introduce.propulsion .propulsion > .section-content > .role > .role-content  > ul > li:nth-of-type(2) {
+    padding: 0 28px;
+}
+.introduce.propulsion .propulsion > .section-content > .role > .role-content  > ul > li:nth-of-type(3) {
+    padding: 0 28px;
+}
+.introduce.propulsion .propulsion > .section-content > .role > .role-content > ul > li > h5 {
+    font-size: 18px;
+    color: #666;
+    margin: 8px 0 15px 0;
+}
+.introduce.propulsion .propulsion > .section-content > .connected > h4 {
+    height: 100px;
+    line-height: 100px;
+}
+.introduce.propulsion .propulsion > .section-content > .connected > .connected-content {
+    overflow: hidden;
+    height: 100px;
+    padding: 20px 0;
+}
+.introduce.propulsion .propulsion > .section-content > .connected > .connected-content  > ul {
+    overflow: hidden;
+}
+.introduce.propulsion .propulsion > .section-content > .connected > .connected-content  > ul > li {
+    float: left;
+    width: 248px;
+    height: 62px;
+    text-align: center;
+    border-right: 1px solid #ccc;
+}
+.introduce.propulsion .propulsion > .section-content > .connected > .connected-content  > ul > li:last-child {
+    border-right: 0;
+}
+.introduce.propulsion .propulsion > .section-content > .connected > .connected-content  > ul > li > h5 {
+    font-size: 18px;
+    color: #666;
+    vertical-align: middle;
+    margin: 22px 0;
+}
+.introduce.propulsion .propulsion > .section-content > .expectation > h4 {
+    height: 190px;
+    line-height: 190px;
+}
+
+
+/* constitution */
+.introduce.constitution .constitution > .subject {
+    margin: 100px 0 20px;
+}
+.introduce.constitution .constitution > .table-wrap > .table > tbody > tr:nth-of-type(5) > td {
+    font-weight: 400;
+}
+.introduce.constitution .constitution > .table-wrap > .table > tbody > tr:nth-of-type(5) > td:nth-of-type(2) {
+    text-align: center;
+}
+
+
+/* location */
+.introduce.location .location > .section-content > p {
+    width: 1170px;
+    height: 460px;
+    margin-bottom: 18px;
+}
+.introduce.location .location > .section-content > .addr {
+    width: 1170px;
+    height: 100px;
+    border: 1px solid #dadada;
+    padding: 20px 30px;
+}
+.introduce.location .location > .section-content > .addr > .dott-list {
+    display: inline;
+}
+.introduce.location .location > .section-content > .addr > .dott-list > li:before {
+    padding: 0;
+}
+.introduce.location .location > .section-content > .addr > .dott-list > li
+> .inline-dl > dt {
+    width: 90px;
+    font-size: 15px;
+    font-weight: 400;
+    color: #333;
+}
+.introduce.location .location > .section-content > .addr > .dott-list > li
+> .inline-dl > dt:after {
+    content: "";
+}
+.introduce.location .location > .section-content > .addr > .dott-list > li
+> .inline-dl > dd {
+    font-size: 15px;
+    color: #666;
+}
+.introduce.location .location > .section-content > .subject {
+    margin: 100px 0 30px;
+}
+.introduce.location .location > .section-content > .table-wrap > .table >
+thead > tr > th {
+    padding: 15px 0;
+}
+.introduce.location .location > .section-content > .table-wrap > .table >
+tbody > tr > td {
+    text-align: center;
+}
+.introduce.location .location > .section-content > .nav-pills {
+    border-bottom: 1px solid #ccc;
+}
+.introduce.location .location > .section-content > .nav-pills > li > a {
+    border-radius: 0;
+    background-color: #f9f9f9;
+    color: #333;
+}
+.introduce.location .location > .section-content > .nav-pills > .active > a {
+    background-color: #685b55;
+    color: #fff;
+}
+.introduce.location .location > .section-content > .tab-content {
+    padding: 40px 0;
+}
+.introduce.location .location > .section-content > .tab-content > .tab-pane > ul > li {
+    font-size: 13px;
+    color: #666;
+    line-height: 26px;
+    display: inline-block;
+}
+.introduce.location .location > .section-content > .tab-content > .tab-pane > ul > li:last-child:after {
+    content: "";
+}
+.introduce.location .location > .section-content > .tab-content > .tab-pane > ul > li:after {
+    content: url(/assets/images/sub/gray_arrow.png);
+    padding: 0 8px;
+}
+.introduce.location .location > .section-content > .bus-schedule {
+    margin-top: 20px;
+    overflow: hidden;
+}
+.introduce.location .location > .section-content > .bus-schedule > .table-wrap {
+    float: left;
+    width: 570px;
+}
+.introduce.location .location > .section-content > .bus-schedule > .table-wrap:nth-of-type(1) {
+    margin-right: 30px;
+}
+.introduce.location .location > .section-content > .bus-schedule > .table-wrap > .table > thead > tr > th {
+    font-size: 14px;
+    padding: 13px 0;
+}
+.introduce.location .location > .section-content > .bus-schedule > .table-wrap > .table > tbody > tr > td {
+    font-size: 14px;
+    padding: 13px 0;
+    text-align: center;
+}
+.introduce.location .location > .section-content > .bus-schedule > .table-wrap > .table > tbody > tr:nth-of-type(1) > td {
+    color: #333;
+    font-weight: 400;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
