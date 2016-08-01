@@ -19,7 +19,7 @@
 				<li><a href="#">학습지원</a></li>
 				<!-- li class="active">수업자료실</li -->
 				<li class="active dropdown">
-					<a href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">직업기초 및 기초학습능력진단<span class="caret"></span></a>
+					<a href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">학습법세미나<span class="caret"></span></a>
 					<ul class="dropdown-menu">
 						<li><a href="#">학습지원공지사항</a></li>
 						<li><a href="/learning/appraisal.php">직업기초 및 기초학습능력진단</a></li>
@@ -32,21 +32,17 @@
 			</ol>
 		</div>
 	</div>
-	<main id="content" class="learning support appraisal">
+	<main id="content" class="learning support seminar">
 		<div class="container">
-			<section class="appraisal">
+			<section class="seminar">
 				<div class="section-header">
 					<hr>
-					<h3>직업기초 및 기초학습능력진단</h3>
+					<h3>학습법세미나</h3>
 				</div>
                 <h4>목적</h4>
                 <ul class="dott-list">
-                    <li>신입생을 대상을 직업교육을 학습하는데 필요한 기초학력 성취수준 및 학습태도를 종합적으로 진단</li>
                     <li>
-                        진단결과를 토대로 교육과정 및 교수학습방법을 효과적으로 개선하고, 직업교육의 정책을 수립하는데 기초 자료로 활용
-                    </li>
-                    <li>
-                        향후 신입생들에게 부족한 국어, 영어, 수학 교과영역의 기초학습을 강화하고, 자기주도적 학습태도의 향상을 체계적으로 지원하는데 활용하고자 함.
+                        직업교육에 대한 학습능력을 향상시킬 수 있는 다양한 학습법을 제공함으로써 자기주도적 학습법 및 학습능력 향상에 기여하고자함
                     </li>
                 </ul>
                 <h4>방법</h4>
@@ -54,22 +50,30 @@
                     <li>
                         <dl class="inline-dl">
                             <dt>대상</dt>
-                            <dd>신입생 전체</dd>
+                            <dd>전체 재학생</dd>
                         </dl>
                     </li>
                     <li>
                         <dl class="inline-dl">
                             <dt>운영방법</dt>
                             <dd>
-                                대학에서 개발된 기초학력수준(중·고등학교 전반 수준의 국어, 영어, 수학), 자기주도적 학습태도(GHC-LAD), 직업기초역량 진단도구(GHC-VCC)를 활용하여 학과별로 실시
+                                다양한 학습법 소개를 통한 학생역량 강화
                             </dd>
                         </dl>
                     </li>
                     <li>
                         <dl class="inline-dl">
-                            <dt>결과활용</dt>
+                            <dt>장소</dt>
                             <dd>
-                                학과, 교무처, 정보전산원, 산학협력취업처에 결과통보 후 학습법, 직업기초, 진로지도, 학습상담 등 관련 프로그램 연계
+                                교내, 교외
+                            </dd>
+                        </dl>
+                    </li>
+                    <li>
+                        <dl class="inline-dl">
+                            <dt>시기</dt>
+                            <dd>
+                                학기중 수시
                             </dd>
                         </dl>
                     </li>
@@ -77,30 +81,30 @@
                 <h4>절차</h4>
                 <ul class="procedure">
                     <li>
-                        <h5>사전준비</h5>
+                        <h5>기획</h5>
                         <ul class="dott-list">
-                            <li>학과별 협조 요청</li>
-                            <li>진단평가일정 조정</li>
+                            <li>학습법 세미나 운영계획 논의</li>
+                            <li>강사 섭외</li>
                         </ul>
                     </li>
                     <li>
-                        <h5>진단평가실시</h5>
+                        <h5>일정공지</h5>
                         <ul class="dott-list">
-                            <li>자체계발한 기초학력<br>수준(국어, 영어, 수학)</li>
-                            <li>자기주도적 학습태도</li>
-                            <li>직업기초 역량진단도구<br>활용하여 진단평가실시</li>
+                            <li>대학 및 센터 홈페이지 공지</li>
+                            <li>학과에 협조 요청</li>
                         </ul>
                     </li>
                     <li>
-                        <h5>결과분석의뢰</h5>
+                        <h5>교육진행</h5>
                         <ul class="dott-list">
-                            <li>외부 전문기관에<br>결과분석 의뢰</li>
+                            <li>학습법 세미나 진행</li>
                         </ul>
                     </li>
                     <li>
-                        <h5>평가</h5>
+                        <h5>자체평가</h5>
                         <ul class="dott-list">
-                            <li>학과, 교무처,<br>정보전산원,<br>산학협력취업체에<br>결과통보</li>
+                            <li>만족도 조사 실시</li>
+                            <li>운영결과보고서 작성</li>
                         </ul>
                     </li>
                 </ul>

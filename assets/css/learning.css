@@ -1,13 +1,13 @@
 /* appraisal */
-.learning.appraisal .appraisal > h4 {
+.learning.support h4 {
     font-size: 25px;
     color: #d22d36;
     margin: 60px 0 15px 0;
 }
-.learning.appraisal .appraisal > h4:nth-of-type(1) {
+.learning.support h4:nth-of-type(1) {
     margin-top: 0;
 }
-.learning.appraisal .appraisal > .procedure > li {
+.learning.support .procedure > li {
     position: relative;
     display: inline-block;
     width: 250px;
@@ -18,33 +18,44 @@
     padding: 26px 30px;
     vertical-align: top;
 }
-.learning.appraisal .appraisal > .procedure > li:last-child {
+.learning.support .procedure > li:last-child {
     margin-right: 0;
 }
-.learning.appraisal .appraisal > .procedure > li:after {
+.learning.support .procedure > li:after {
     position: absolute;
     top: 42%;
     right: -33px;
     content: url(/assets/images/introduce/right_arrow.png);
 }
-.learning.appraisal .appraisal > .procedure > li:last-child:after {
+.learning.support .procedure > li:last-child:after {
     content: "";
 }
-.learning.appraisal .appraisal > .procedure > li > h5 {
+.learning.support .procedure > li > h5 {
     font-size: 18px;
     color: #555;
     margin: 0;
 }
-.learning.appraisal .appraisal > .procedure > li > .dott-list {
+.learning.support .procedure > li > .dott-list {
     margin-top: 10px;
 }
-.learning.appraisal .appraisal > .procedure > li > .dott-list > li {
+.learning.support .procedure > li > .dott-list > li {
     position: relative;
     line-height: 25px;
     padding-left: 10px;
 }
-.learning.appraisal .appraisal > .procedure > li > .dott-list > li:before {
+.learning.support .procedure > li > .dott-list > li:before {
     position: absolute;
     top: 0;
     left: 0;
+}
+
+/* seminar */
+.learning.tutoring .procedure > li {
+    margin-bottom: 30px;
+}
+.learning.tutoring .procedure > li:nth-of-type(5) {
+    margin-bottom: 0;
+}
+.learning.tutoring .procedure > li:nth-of-type(6) {
+    margin-bottom: 0;
 }

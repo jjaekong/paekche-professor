@@ -1,0 +1,347 @@
+/* notice */
+.professor.notice .list > .search-form {
+    margin: 0 0 30px 0;
+}
+.professor.notice .list > .search-form > form > button {
+    background-color: #2e2e2e;
+}
+.professor.notice .list > .search-form > form > button:hover {
+    color: #fff;
+    opacity: 0.8;
+}
+.professor.notice .list > .table-wrap > .table > thead > tr > th {
+    font-size: 14px !important;
+    padding: 17px 0 !important;
+}
+.professor.notice .list > .table-wrap > .table > tbody > tr > td {
+    border-right: 0;
+    font-size: 13px !important;
+    padding: 17px 0 !important;
+}
+.professor.notice .list > .table-wrap > .table > tbody > tr > td > a {
+    color: #666;
+}
+.professor.notice .list > .table-wrap > .table > tbody > tr > td:nth-of-type(2) {
+    text-align: left !important;
+}
+.professor.notice .list > .table-wrap > .table > tbody > tr > td:nth-of-type(2) > span {
+
+    margin-left: 10px;
+}
+.professor.notice .list > .table-wrap > .table > tbody > tr > td:last-child {
+    text-align: center !important;
+}
+.professor.notice .list > .paging {
+    margin-top: 17px;
+}
+.professor.notice .list > .btn-area {
+    margin: 18px 0 0 0;
+    overflow: hidden;
+}
+.professor.notice .list > .btn-area > p > .btn-red {
+    float: right;
+    width: 130px !important;
+    height: 45px !important;
+    color: #fff;
+    background-color: #2e2e2e !important;
+}
+
+
+
+/* notice-view */
+.professor.notice-view .view > .view-comment {
+    margin-top: 59px;
+}
+.professor.notice-view .view > .view-comment > header > h4 {
+    font-size: 16px;
+    font-weight: 400;
+    color: #333;
+    background-color: #f9f9f9;
+    border-top: 2px solid #555;
+    border-bottom: 1px solid #dadada;
+    padding: 21px 30px;
+    margin: 0;
+}
+.professor.notice-view .view > .view-comment > header > ul > li {
+    padding: 18px 28px 18px 40px;
+    border-bottom: 1px solid #dadada;
+}
+.professor.notice-view .view > .view-comment > header > ul > li > .inline-dl > dt {
+    font-weight: 400;
+    font-size: 13px;
+    color: #666;
+}
+.professor.notice-view .view > .view-comment > header > ul > li > .inline-dl > dd {
+    font-size: 13px;
+    color: #666;
+}
+.professor.notice-view .view > .view-comment > header > ul > li > .inline-dl > dd > a {
+    color: #666;
+}
+.professor.notice-view .view > .view-comment > header > ul > li > .inline-dl > dt:after {
+    content: "|";
+    padding: 0 18px;
+}
+.professor.notice-view .view > .view-comment > header > ul > li > .inline-dl > dd:after {
+    content: ",";
+    padding-right: 3px;
+}
+.professor.notice-view .view > .view-comment > header > ul > li > .inline-dl > dd:last-child:after {
+    content: "";
+    padding-right: 0;
+}
+.professor.notice-view .view > .view-comment > header > ul > li > ul > li {
+    display: inline-block;
+}
+.professor.notice-view .view > .view-comment > header > ul > li > ul > li:nth-of-type(1) {
+    margin-right: 620px;
+}
+.professor.notice-view .view > .view-comment > header > ul > li > ul > li:nth-of-type(2) {
+    margin-right: 100px;
+}
+.professor.notice-view .view > .view-comment > header > ul > li > ul > li > .inline-dl > dt {
+    font-weight: 400;
+    font-size: 13px;
+    color: #666;
+}
+.professor.notice-view .view > .view-comment > header > ul > li > ul > li > .inline-dl > dd {
+    font-size: 13px;
+    color: #666;
+}
+.professor.notice-view .view > .view-comment > header > ul > li > ul > li > .inline-dl > dt:after {
+    content: "|";
+    padding: 0 18px;
+}
+.professor.notice-view .view > .view-comment > .article-content {
+    font-size: 14px;
+    color: #666;
+    line-height: 24px;
+    padding: 32px 29px;
+    min-height: 460px;
+    border-bottom: 1px solid #dadada;
+    margin-bottom: 20px;
+}
+.professor.notice-view .view > .view-comment > .btn-area {
+    margin: 0;
+    overflow: hidden;
+}
+.professor.notice-view .view > .view-comment > .btn-area > p > .btn-red {
+    float: right;
+    width: 130px !important;
+    height: 50px !important;
+    color: #fff;
+    padding: 5px 0;
+    background-color: #2e2e2e;
+}
+.professor.notice-view .view > .view-comment > .comment {
+    margin: 50px 0 18px 0;
+    padding: 30px 30px 17px;
+    background-color: #f3f3f3;
+}
+.professor.notice-view .view > .view-comment > .comment > h3 {
+    font-size: 15px;
+    color: #333;
+    font-weight: bold;
+    margin: 0 0 18px 0;
+}
+.professor.notice-view .view > .view-comment > .comment > .comment-write > form {
+    overflow: hidden;
+}
+.professor.notice-view .view > .view-comment > .comment > .comment-write > form > label {
+    margin-right: 10px;
+    font-size: 13px;
+    color: #222;
+    font-weight: 400;
+}
+.professor.notice-view .view > .view-comment > .comment > .comment-write > form > input {
+    width: 140px;
+    height: 28px;
+    margin-right: 25px;
+    padding-left: 5px;
+    border: 1px solid #dadada;
+}
+.professor.notice-view .view > .view-comment > .comment > .comment-write > form > textarea {
+    float: left;
+    width: 960px;
+    height: 80px;
+    border: 1px solid #dadada;
+    margin-top: 10px;
+    padding: 5px;
+}
+.professor.notice-view .view > .view-comment > .comment > .comment-write > form > .btn-area {
+    float: left;
+    margin: 10px 0 0 10px;
+}
+.professor.notice-view .view > .view-comment > .comment > .comment-write > form > .btn-area > p {
+    margin: 0;
+}
+.professor.notice-view .view > .view-comment > .comment > .comment-write > form > .btn-area > p > .btn {
+    font-size: 15px !important;
+    width: 140px !important;
+    height: 80px !important;
+    padding: 20px 0 !important;
+    margin: 0 !important;
+    display: inline-block !important;
+    background-color: #2e2e2e;
+}
+.professor.notice-view .view > .view-comment > .comment-view > li {
+    position: relative;
+    padding: 20px 0;
+    border-bottom: 1px solid #dadada;
+}
+.professor.notice-view .view > .view-comment > .comment-view > li > p {
+    font-size: 12px;
+    color: #9b9b9b;
+    padding-left: 10px;
+}
+.professor.notice-view .view > .view-comment > .comment-view > li > p:before {
+    content: "ㄴ";
+}
+.professor.notice-view .view > .view-comment > .comment-view > li:first-child {
+    border-top: 0;
+}
+.professor.notice-view .view > .view-comment > .comment-view > li > h4 {
+    font-size: 13px;
+    color: #444;
+    font-weight: 400;
+    margin: 0;
+    padding-bottom: 10px;
+}
+.professor.notice-view .view > .view-comment > .comment-view > li > h4 > .date {
+    color: #9b9b9b;
+    font-weight: 300;
+}
+.professor.notice-view .view > .view-comment > .comment-view > li > h4 > .date:before {
+    content: "(";
+}
+.professor.notice-view .view > .view-comment > .comment-view > li > h4 > .date:after {
+    content: ")";
+}
+.professor.notice-view .view > .view-comment > .comment-view > li > .btn-area {
+    position: absolute;
+    top: 20px;
+    right: 0;
+    margin: 0;
+}
+.professor.notice-view .view > .view-comment > .comment-view > li > .btn-area > p > .btn {
+    margin-left: 2px !important;
+    width: 18px !important;
+    height: 18px !important;
+    padding: 0 !important;
+}
+
+
+/* notice_write */
+.professor.notice-write .write > .section-header {
+    margin-bottom: 59px;
+}
+.professor.notice-write .write > .table-wrap > .write-form > .table label {
+    margin: 0;
+    font-weight: 400;
+    color: #333;
+}
+.professor.notice-write .write > .table-wrap > .write-form > .table > tbody > tr > th {
+    font-size: 14px !important;
+    padding: 14px 25px !important;
+    text-align: left !important;
+    border-right: 0 !important;
+}
+.professor.notice-write .write > .table-wrap > .write-form > .table > tbody > tr > td {
+    padding: 7px !important;
+    text-align: left !important;
+    border-right: 0 !important;
+}
+.professor.notice-write .write > .table-wrap > .write-form > .table > tbody > tr > td > .text-input {
+    width: 270px;
+    height: 35px;
+    border: 1px solid #dadada;
+}
+.professor.notice-write .write > .table-wrap > .write-form > .table > tbody > tr:nth-of-type(2) > td:nth-of-type(2) {
+    padding: 14px 25px !important;
+    font-weight: 400;
+    color: #333;
+    background-color: #f9f9f9;
+}
+.professor.notice-write .write > .table-wrap > .write-form > .table > tbody > tr:nth-of-type(2) > td:nth-of-type(3) {
+    padding-left: 20px !important;
+}
+.professor.notice-write .write > .table-wrap > .write-form > .table > tbody > tr:nth-of-type(2) > td:nth-of-type(3) > label:nth-of-type(1) {
+    margin-right: 34px;
+}
+.professor.notice-write .write > .table-wrap > .write-form > .table > tbody > tr:nth-of-type(3) > td > input {
+    width: 950px;
+    height: 35px;
+    border: 1px solid #dadada;
+}
+.professor.notice-write .write > .table-wrap > .write-form > .table > tbody > tr:nth-of-type(4) > td {
+    padding: 16px 0 !important;
+}
+.professor.notice-write .write > .table-wrap > .write-form > .table > tbody > tr > td > textarea {
+    width: 1170px;
+    height: 395px;
+    border: 1px solid #dadada;
+}
+.professor.notice-write .write > .table-wrap > .write-form > .btn-area {
+    margin-top: 20px;
+    overflow: hidden;
+}
+.professor.notice-write .write > .table-wrap > .write-form > .btn-area > p > .btn-red {
+    float: right !important;
+    width: 130px !important;
+    height: 50px !important;
+    font-size: 15px !important;
+    color: #fff !important;
+    padding: 5px 0 !important;
+    background-color: #2e2e2e !important;
+}
+
+/* confirm-pw */
+.professor.confirm-pw .container {
+    padding-bottom: 200px !important;
+}
+.professor.confirm-pw .confirm-pw > .section-header {
+    margin-bottom: 138px;
+}
+.professor.confirm-pw .confirm-pw > .section-content {
+    text-align: center;
+    background-image: url(/assets/images/professor/lock_bg.png);
+    background-repeat: no-repeat;
+    background-position: 50% 0;
+}
+.professor.confirm-pw .confirm-pw > .section-content > form {
+    overflow: hidden;
+}
+.professor.confirm-pw .confirm-pw > .section-content > form > h2 {
+    font-size: 23px;
+    color: #444;
+    font-weight: 400;
+    margin: 0;
+    padding: 106px 0 10px 0;
+}
+.professor.confirm-pw .confirm-pw > .section-content > form > p {
+    font-size: 18px;
+    color: #666;
+    margin-bottom: 30px;
+}
+.professor.confirm-pw .confirm-pw > .section-content > form > input {
+    display: inline-block;
+    width: 280px;
+    height: 35px;
+    border: 1px solid #dadada;
+    margin-right: 9px;
+}
+.professor.confirm-pw .confirm-pw > .section-content > form > .btn-area {
+    display: inline-block;
+    margin: 0;
+    vertical-align: top;
+}
+.professor.confirm-pw .confirm-pw > .section-content > form > .btn-area > p > .btn-gray {
+    width: 80px;
+    height: 35px;
+    color: #fff;
+    line-height: 35px;
+    background-color: #2e2e2e;
+}
+
+
+
