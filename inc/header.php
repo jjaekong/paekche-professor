@@ -24,16 +24,16 @@
                         <li><a href="#">교수지원공지사항</a></li>
                         <li><a href="#">Teaching Tips</a></li>
                         <li><a href="#">자료실</a></li>
-                        <li><a href="#">묻고답하기</a></li>
+                        <li><a href="/professor/notice.php">묻고답하기</a></li>
                     </ul>
                 </li>
                 <li class="has-child">
                     <a href="#">학습지원</a>
                     <ul>
                         <li><a href="#">학습지원공지사항</a></li>
-                        <li><a href="#">직업기초 및 기초학습능력진단</a></li>
-                        <li><a href="#">학습법세미나</a></li>
-                        <li><a href="#">튜터링프로그램</a></li>
+                        <li><a href="/learning/appraisal.php">직업기초 및 기초학습능력진단</a></li>
+                        <li><a href="/learning/seminar.php">학습법세미나</a></li>
+                        <li><a href="/learning/tutoring.php">튜터링프로그램</a></li>
                         <li><a href="#">자료실</a></li>
                         <li><a href="#">묻고답하기</a></li>
                     </ul>

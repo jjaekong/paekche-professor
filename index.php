@@ -50,7 +50,7 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="#">
+                                    <a href="/learning/appraisal.php">
                                         <figure>
                                             <img src="/assets/images/main_bg05.png" alt="학습지원">
                                             <figcaption>학습지원</figcaption>
@@ -58,7 +58,7 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="#">
+                                    <a href="/introduce/location.php">
                                         <figure>
                                             <img src="/assets/images/main_bg06.png" alt="찾아오시는길">
                                             <figcaption>찾아오시는길</figcaption>
@@ -66,7 +66,7 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="#">
+                                    <a href="/professor/notice.php">
                                         <figure>
                                             <img src="/assets/images/main_bg07.png" alt="묻고답하기">
                                             <figcaption>묻고답하기</figcaption>

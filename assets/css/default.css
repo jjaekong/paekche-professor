@@ -334,6 +334,9 @@ ul,ol {
 #content > .main-visual > .section-content > .container > .professor > h4 {
     margin: 0 0 30px 0;
 }
+#content > .main-visual > .section-content > .container > .professor > h4 a:hover {
+    text-decoration: none;
+}
 #content > .main-visual > .section-content > .container > .professor > h4 > a {
     font-size: 20px;
     font-weight: 300;
@@ -390,6 +393,9 @@ ul,ol {
     font-size: 20px;
     font-weight: 300;
     color: #333;
+}
+#content > .main-visual > .section-content > .container > .learning > h4 a:hover {
+    text-decoration: none;
 }
 #content > .main-visual > .section-content > .container > .learning > h4 > a > small {
     position: absolute;
