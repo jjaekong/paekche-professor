@@ -77,7 +77,7 @@
                         </div>
                     </div>
                     <div class="professor">
-                        <h4><a href="#">교수지원 공지사항<small>더보기</small></a></h4>
+                        <h4>교수지원 공지사항</h4>
                         <ul>
                             <li>
                                 <a href="#">
@@ -104,9 +104,10 @@
                                 </a>
                             </li>
                         </ul>
+                        <a href="#" class="more">더보기</a>
                     </div>
                     <div class="learning">
-                        <h4><a href="#">교수지원 공지사항<small>더보기</small></a></h4>
+                        <h4>학습지원 공지사항</h4>
                         <ul>
                             <li>
                                 <a href="#">
@@ -133,6 +134,7 @@
                                 </a>
                             </li>
                         </ul>
+                        <a href="#" class="more">더보기</a>
                     </div>
                 </div>
             </div>

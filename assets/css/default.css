@@ -79,6 +79,14 @@ ul,ol {
     font-weight: normal;
 }
 
+
+
+
+
+
+
+
+
 #header #gnb {
     float: right;
     height: 100%;
@@ -113,6 +121,7 @@ ul,ol {
     width: 180px;
     background-color: rgba(51, 51, 51, 0.9);
     text-align: center;
+    z-index: 1;
 }
 
 #header #gnb > ul > li > ul > li > a {
@@ -141,6 +150,9 @@ ul,ol {
 #header #gnb > ul > li.has-child.active > ul {
     display: block;
 }
+
+
+
 
 
 
@@ -321,6 +333,9 @@ ul,ol {
     font-size: 14px;
     color: #333;
 }
+#content > .main-visual > .section-content > .container > .intro > div > ul > li > a:focus > figure > figcaption {
+    text-decoration: underline;
+}
 #content > .main-visual > .section-content > .container > .professor {
     position: relative;
     width: 570px;
@@ -333,25 +348,21 @@ ul,ol {
 }
 #content > .main-visual > .section-content > .container > .professor > h4 {
     margin: 0 0 30px 0;
-}
-#content > .main-visual > .section-content > .container > .professor > h4 a:hover {
-    text-decoration: none;
-}
-#content > .main-visual > .section-content > .container > .professor > h4 > a {
     font-size: 20px;
-    font-weight: 300;
+    font-weight: 400;
     color: #333;
 }
-#content > .main-visual > .section-content > .container > .professor > h4 > a > small {
+#content > .main-visual > .section-content > .container > .professor > .more {
     position: absolute;
-    top: 35px;
+    top: 30px;
     right: 30px;
     font-size: 13px;
     color: #666;
     padding-right: 15px;
     background-image: url(/assets/images/plus_img.png);
     background-repeat: no-repeat;
-    background-position: 100% 3px;
+    background-position: 100% 5px;
+    vertical-align: top;
 }
 #content > .main-visual > .section-content > .container > .professor > ul > li {
     position: relative;
@@ -388,25 +399,21 @@ ul,ol {
 }
 #content > .main-visual > .section-content > .container > .learning > h4 {
     margin: 0 0 30px 0;
-}
-#content > .main-visual > .section-content > .container > .learning > h4 > a {
     font-size: 20px;
-    font-weight: 300;
+    font-weight: 400;
     color: #333;
 }
-#content > .main-visual > .section-content > .container > .learning > h4 a:hover {
-    text-decoration: none;
-}
-#content > .main-visual > .section-content > .container > .learning > h4 > a > small {
+#content > .main-visual > .section-content > .container > .learning > .more {
     position: absolute;
-    top: 35px;
+    top: 30px;
     right: 30px;
     font-size: 13px;
     color: #666;
     padding-right: 15px;
     background-image: url(/assets/images/plus_img.png);
     background-repeat: no-repeat;
-    background-position: 100% 3px;
+    background-position: 100% 5px;
+    vertical-align: top;
 }
 #content > .main-visual > .section-content > .container > .learning > ul > li {
     position: relative;
