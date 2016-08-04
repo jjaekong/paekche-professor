@@ -36,7 +36,7 @@
 			<section class="location">
 				<div class="section-header">
 					<hr>
-					<h3>인사말</h3>
+					<h3>찾아오시는길</h3>
 				</div>
 				<div class="section-content">
 				    <p>

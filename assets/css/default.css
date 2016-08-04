@@ -79,14 +79,6 @@ ul,ol {
     font-weight: normal;
 }
 
-
-
-
-
-
-
-
-
 #header #gnb {
     float: right;
     height: 100%;
@@ -150,15 +142,6 @@ ul,ol {
 #header #gnb > ul > li.has-child.active > ul {
     display: block;
 }
-
-
-
-
-
-
-
-
-
 
 #content > .main-visual > .section-header {
     height: 450px;

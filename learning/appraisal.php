@@ -19,10 +19,10 @@
 				<li><a href="#">학습지원</a></li>
 				<!-- li class="active">수업자료실</li -->
 				<li class="active dropdown">
-					<a href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">직업기초 및 기초학습능력진단<span class="caret"></span></a>
+					<a href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">직업기초 및 기초학습 능력 진단 평가<span class="caret"></span></a>
 					<ul class="dropdown-menu">
 						<li><a href="#">학습지원공지사항</a></li>
-						<li><a href="/learning/appraisal.php">직업기초 및 기초학습능력진단</a></li>
+						<li><a href="/learning/appraisal.php">직업기초 및 기초학습 능력 진단 평가</a></li>
 						<li><a href="/learning/seminar.php">학습법세미나</a></li>
 						<li><a href="/learning/tutoring.php">튜터링프로그램</a></li>
 						<li><a href="#">자료실</a></li>
@@ -37,7 +37,7 @@
 			<section class="appraisal">
 				<div class="section-header">
 					<hr>
-					<h3>직업기초 및 기초학습능력진단</h3>
+					<h3>직업기초 및 기초학습 능력 진단 평가</h3>
 				</div>
                 <h4>목적</h4>
                 <ul class="dott-list">
